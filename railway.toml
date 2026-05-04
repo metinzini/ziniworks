@@ -1,6 +1,0 @@
-[build]
-builder = "NIXPACKS"
-
-[deploy]
-cronSchedule = "0 10 * * *"
-startCommand = "python autopost.py"
